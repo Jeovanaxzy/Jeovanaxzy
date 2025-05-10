@@ -1,4 +1,4 @@
-<p align="left">Hello, my name is Jeovana :)</p>
+<p align="left">Hello World!!</p>
 
 ###
 
@@ -37,19 +37,18 @@
 ###
 
 <div align="left">
-  <a href="https:/www.linkedin.com/in/jeovana-dos-santos-490765333" target="_blank">
+  <a href="www.linkedin.com/in/jeovana-dos-santos-490765333" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
   <a href="https://www.instagram.com/invites/contact/?igsh=o0hniezpadq2&utm_content=ni5j62z" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
-  <a href="https://t.me/Komarixzy" target="_blank">
+  <a href="t.me/Komarixzy" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
+  </a>
+  <a href="https://discord.com/users/@komari_fz4898" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   </a>
 </div>
 
 ###
-
-
-###
-
